@@ -1,0 +1,19 @@
+{
+  "name": "MusicAppi",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "cookie-parser": "^1.4.1",
+    "morgan": "^1.7.0",
+    "express": "~4.2.0",
+    "express-session": "~1.0.0" , 
+    "method-override": "~1.0.0",
+    
+    "mongoose": "latest",
+    "bcrypt-nodejs" : "latest",
+
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-facebook" : "~1.0.2"
+  }
+}
